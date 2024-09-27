@@ -1,0 +1,40 @@
+body {
+
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
+}
+
+button {
+    padding: 5px;
+    margin: 5px 3px 12px;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #1162ac;
+    background-color: #1162ac;
+    color: white;
+
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+/* modigicamos la imagen */
+input {
+    margin: 5px 10px;
+    border-radius: 5px;
+    outline: 300px;
+    font-size: 1.4em;
+    border: 1px dotted crimson;
+    color: crimson;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#saludo {
+    margin-left: 7px;
+    font-size: 1.2em;
+    color: #1162ac;
+}
